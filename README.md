@@ -6,8 +6,9 @@ Created: '2022-08-22'
 Last Updated: '2022-08-22'
 
 # Prerequisites
-- Python: version 3.7.13
-- Numpy: version 1.21.6
+- Python version: 3.7.13
+- Numpy version: 1.21.6
+- Regex version: 2.5.115
 
 # Useage
 
