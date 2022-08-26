@@ -22,7 +22,7 @@ from . import Coins
 total = '£0-05'
 
 # Instantiate Coins
-combinations = Coin(total)
+combinations = Coins(total)
 # Call
 combinations()
 
